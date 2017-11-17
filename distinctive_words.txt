@@ -1,0 +1,260 @@
+--------------------------------------------------
+Top 10 words for religion
+--------------------------------------------------
+people - 144
+christian - 134
+god - 122
+time - 98
+jesus - 97
+world - 93
+believe - 80
+bible - 74
+please - 73
+christians - 73
+--------------------------------------------------
+Top 10 words for christian
+--------------------------------------------------
+god - 322
+people - 285
+christians - 201
+believe - 195
+jesus - 193
+time - 183
+question - 175
+christian - 171
+christ - 164
+bible - 163
+--------------------------------------------------
+Top 10 words for motorcycles
+--------------------------------------------------
+dod - 262
+bike - 261
+ride - 130
+time - 120
+bikes - 107
+motorcycle - 104
+riding - 104
+bmw - 90
+people - 89
+usa - 87
+--------------------------------------------------
+Top 10 words for pc
+--------------------------------------------------
+thanks - 204
+drive - 158
+system - 156
+card - 152
+help - 134
+computer - 134
+please - 128
+using - 110
+controller - 108
+bus - 106
+--------------------------------------------------
+Top 10 words for windows
+--------------------------------------------------
+windows - 391
+thanks - 173
+3.1 - 165
+using - 164
+file - 141
+dos - 130
+help - 117
+files - 114
+version - 109
+please - 108
+--------------------------------------------------
+Top 10 words for medical
+--------------------------------------------------
+people - 169
+time - 150
+science - 145
+computer - 129
+gordon - 115
+banks - 109
+medical - 108
+geb@cs.pitt.edu - 103
+pittsburgh - 102
+disease - 97
+--------------------------------------------------
+Top 10 words for space
+--------------------------------------------------
+space - 293
+world - 127
+orbit - 127
+time - 126
+nasa - 126
+moon - 112
+earth - 109
+people - 105
+science - 101
+launch - 101
+--------------------------------------------------
+Top 10 words for crypto
+--------------------------------------------------
+clipper - 309
+chip - 284
+key - 278
+encryption - 267
+government - 206
+people - 203
+system - 190
+keys - 176
+public - 173
+secret - 150
+--------------------------------------------------
+Top 10 words for xwindows
+--------------------------------------------------
+thanks - 183
+window - 182
+using - 163
+please - 126
+help - 125
+internet - 113
+running - 113
+server - 113
+application - 112
+program - 110
+--------------------------------------------------
+Top 10 words for atheism
+--------------------------------------------------
+people - 195
+god - 164
+atheists - 146
+time - 127
+keith - 127
+world - 111
+believe - 108
+schneider - 90
+keith@cco.caltech.edu - 88
+political - 88
+--------------------------------------------------
+Top 10 words for autos
+--------------------------------------------------
+car - 321
+cars - 185
+usa - 155
+time - 135
+people - 107
+thanks - 94
+engine - 94
+drive - 87
+read - 80
+price - 76
+--------------------------------------------------
+Top 10 words for mac
+--------------------------------------------------
+mac - 197
+apple - 165
+thanks - 163
+computer - 109
+drive - 100
+please - 94
+system - 93
+usa - 85
+software - 84
+world - 82
+--------------------------------------------------
+Top 10 words for baseball
+--------------------------------------------------
+baseball - 197
+game - 148
+team - 142
+games - 135
+time - 131
+players - 122
+season - 119
+win - 109
+play - 103
+runs - 102
+--------------------------------------------------
+Top 10 words for hockey
+--------------------------------------------------
+team - 260
+hockey - 225
+game - 222
+nhl - 186
+play - 181
+time - 156
+games - 141
+players - 135
+season - 131
+win - 130
+--------------------------------------------------
+Top 10 words for mideast
+--------------------------------------------------
+people - 274
+israeli - 203
+israel - 202
+world - 191
+government - 153
+jews - 151
+time - 144
+turkish - 140
+center - 130
+policy - 124
+--------------------------------------------------
+Top 10 words for graphics
+--------------------------------------------------
+thanks - 184
+graphics - 181
+help - 129
+please - 129
+computer - 116
+looking - 113
+keywords - 107
+program - 106
+image - 102
+version - 94
+--------------------------------------------------
+Top 10 words for politics
+--------------------------------------------------
+people - 226
+government - 126
+time - 120
+believe - 98
+look - 96
+usa - 96
+clinton - 91
+law - 89
+free - 89
+opinions - 85
+--------------------------------------------------
+Top 10 words for electronics
+--------------------------------------------------
+thanks - 128
+power - 113
+help - 102
+question - 92
+time - 91
+using - 91
+computer - 87
+circuit - 87
+please - 83
+usa - 83
+--------------------------------------------------
+Top 10 words for forsale
+--------------------------------------------------
+sale - 344
+please - 181
+usa - 154
+offer - 149
+shipping - 136
+condition - 114
+email - 114
+computer - 113
+sell - 112
+price - 111
+--------------------------------------------------
+Top 10 words for guns
+--------------------------------------------------
+people - 250
+gun - 227
+guns - 160
+time - 156
+usa - 150
+government - 134
+believe - 133
+weapons - 124
+control - 120
+waco - 115
